@@ -1,0 +1,10 @@
+table {
+	border: 1px solid black;
+	border-spacing: 20px;
+	border-collapse: separate;
+}
+
+table th {
+	font-style: italic;
+}
+
