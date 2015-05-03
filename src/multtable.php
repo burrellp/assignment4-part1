@@ -64,6 +64,11 @@ if (!is_numeric($max2)) {
 	$error = true;
 }
 
+if ($min1 < 0 || $max1 < 0 || $min2 < 0 || $max2 < 0) {
+	echo "All multipliers and multiplicands must be nonnegative integers.<br>";
+	$error = true;
+}
+
 //Test that minimum values are <= maximum values
 if ($min1 > $max1) {
 	echo "Minimum multiplier larger than maximum<br>";
