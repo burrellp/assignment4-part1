@@ -84,8 +84,8 @@ if ($min2 > $max2) {
 if (!$error) {
 //Establish size of table	
 echo "<p>Multiplication Table</p>";
-$rows = $max1 - $min1 + 2;
-$cols = $max2 - $min2 + 2;
+$cols = $max1 - $min1 + 2;
+$rows = $max2 - $min2 + 2;
 
 echo '<table>';
 //Create table with nested for loop
