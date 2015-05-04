@@ -1,0 +1,27 @@
+Start: Tues, 28 Apr 2015 21:21:00 -0800
+End: Tues, 28 Apr 2015 22:49:00 -0800
+Tasks: Read through PHP documentation (assigned reading)
+
+Start: Wed, 29 Apr 2015 10:29:00 -0800
+End: Wed, 29 Apr 2015 13:15: -0800
+Tasks: Watched all OSU lectures for the week (on PHP) as well as a few outside tutorials on youtube. 
+
+Start: Fri, 01 May 2015 16:07:00 -0800
+End: Fri, 01 May 2015 19:54:00 -0800
+Tasks: Watched video of tutorial session put on by OSU peer tutor and reviewed source code from the lecture (I was unable to attend live). 
+
+Start: Sat, 02 May 2015 13:00:00 -0800
+End: Wed, 22 Apr 2015 15:22:00 -0800
+Tasks: Successfully installed working local server to test PHP code on my computer. I initially tried the native OS X way but had difficulties. Ultimately, I got XAMPP to work. 
+
+Start: Sun, 03 May 2015 09:33:00 -0800
+End: Wed, 22 Apr 2015 11:41:00 -0800
+Tasks: Started and completed multtable.php
+
+Start: Sun, 03 May 2015 13:03:00 -0800
+End: Wed, 03 May 2015 14:57:00 -0800
+Tasks: Started and completed loopback.php
+
+Start: Sun, 03 May 2015 15:45:00 -0800
+End: Wed, 22 Apr 2015 22:38:00 -0800
+Tasks: Worked on the final part of the assignment (login.php, content1.php, and content2.php). Much of this time was spent on Piazza/StackOverflow/php.net/google.com trying to work through problems I ran into. These included having trouble getting session variables to persist through to different websites, logging out properly (clearing session data on logout), and testing for valid login when visiting the content pages. I believe I have most if not all of the requirements accomplished, but I don’t feel all that great about the process. This was definitely the portion of the assignment that I struggled with the most (other than getting my machine to run php files locally). 
